@@ -12,6 +12,17 @@ User.create({
   password: 'Testing193!',
   role: 1,
 })
+User.create({
+  email: 'test2@gmail.com',
+  password: 'Testing193!',
+  role: 2,
+})
+
+User.create({
+  email: 'test3@gmail.com',
+  password: 'Testing193!',
+  role: 3,
+})
 
 // ================================================================
 
